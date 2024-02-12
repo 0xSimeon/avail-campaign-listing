@@ -1,0 +1,8 @@
+{
+  "name": "ravepay",
+  "logo": "https://i.postimg.cc/15XvZmRf/ravepay.png",
+  "rpc_url": "http://209.145.50.209:9944",
+  "explorer_url": "http://209.145.50.209:4000",
+  "metrics_endpoint": "http://209.145.50.209:9615/metrics",
+  "id": "05f15d4a-4763-4180-b07e-678ccb782385"
+}
